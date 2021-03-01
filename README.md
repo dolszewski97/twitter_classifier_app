@@ -1,2 +1,2 @@
 # twitter_classifier_app
-Simple Flutter app to display tweets sentiment analysis results
+Simple mobile demo for sentinemt analysis. 
